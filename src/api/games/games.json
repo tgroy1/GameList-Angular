@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "The Witcher 3: Wild Hunt",
+    "genre": "Role-Playing Game , Open-World",
+    "releaseDate": "May 18, 2015",
+    "description": "It is a story-driven open world RPG set in a visually stunning fantasy universe full of meaningful choices and impactful consequences. You play as professional monster hunter, Geralt of Rivia, tasked with finding a child of prophecy in a vast open world rich with merchant cities, pirate islands, dangerous mountain passes, and forgotten caverns to explore.",
+    "price": 999,
+    "rating": 4.7,
+    "imageUrl": "assets/images/witcher.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Horizon: Zero Dawn",
+    "genre": "Adventure , Open-World",
+    "releaseDate": "February 28, 2017",
+    "description": "Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly machines.",
+    "price": 1099,
+    "rating": 4.4,
+    "imageUrl": "assets/images/horizon.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Football Manager 2021",
+    "genre": "Sports Simulation",
+    "releaseDate": "November 10, 2020",
+    "description": "The manager is the beating heart of every football club. In Football Manager 2021, dynamic, true-to-life management experiences and next-level detail renews that focus on you, the manager, equipping you with all the tools you need to achieve elite status.",
+    "price": 2499,
+    "rating": 4.1,
+    "imageUrl": "assets/images/football-manager.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Portal 2",
+    "genre": "Puzzle",
+    "releaseDate": "April 18, 2011",
+    "description": "Players solve puzzles by placing portals and teleporting between them.",
+    "price": 349,
+    "rating": 5.0,
+    "imageUrl": "assets/images/portal.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Forza Horizon 4",
+    "genre": "Racing",
+    "releaseDate": "September 28, 2018",
+    "description": "Dynamic seasons change everything at the world’s greatest automotive festival. Go it alone or team up with others to explore beautiful and historic Britain in a shared open world. Collect, modify and drive over 450 cars. Race, stunt, create and explore – choose your own path to become a Horizon Superstar.",
+    "price": 1299,
+    "rating": 3.7,
+    "imageUrl": "assets/images/forza.jpg"
+  }
+]
